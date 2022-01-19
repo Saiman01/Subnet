@@ -1,0 +1,8 @@
+To compile: 
+$ make 
+
+To execute:
+$ ./subcalc
+
+To clean: 
+$ make clean
